@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "SGS",
+    "ACA",
+    "SGS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:gravel"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:create_stone_crate",
+    "count": 1
+  }
+}

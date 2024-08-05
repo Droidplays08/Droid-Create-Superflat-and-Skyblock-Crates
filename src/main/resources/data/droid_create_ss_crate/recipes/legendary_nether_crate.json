@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "EFE",
+    "ECE",
+    "DDD"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "F": {
+      "item": "create:flywheel"
+    },
+    "C": {
+      "item": "create:railway_casing"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:legendary_nether_crate",
+    "count": 1
+  }
+}

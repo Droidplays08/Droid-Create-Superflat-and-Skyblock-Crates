@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "PSP",
+    "MDM",
+    "CSC"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "M": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:ocean_crate",
+    "count": 1
+  }
+}

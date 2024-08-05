@@ -1,0 +1,19 @@
+{
+  "block.droid_create_ss_crate.dirt_crate": "Dirt Crate",
+  "block.droid_create_ss_crate.beginner_crate": "Beginner's Crate",
+  "block.droid_create_ss_crate.starter_crate": "Starter Crate",
+  "block.droid_create_ss_crate.stone_crate": "Stone Crate",
+  "block.droid_create_ss_crate.nether_crate": "Nether Crate",
+  "block.droid_create_ss_crate.ore_crate": "Ore Crate",
+  "block.droid_create_ss_crate.elite_nether_crate": "Elite Nether Crate",
+  "block.droid_create_ss_crate.farmer_crate": "Farmer's Crate",
+  "block.droid_create_ss_crate.create_stone_crate": "Create Stone Crate",
+  "block.droid_create_ss_crate.legendary_nether_crate": "Legendary Nether Crate",
+  "block.droid_create_ss_crate.sculk_crate": "Sculk Crate",
+  "block.droid_create_ss_crate.sherd_crate": "Sherd Crate",
+  "block.droid_create_ss_crate.ruin_crate": "Ruin Crate",
+  "block.droid_create_ss_crate.deep_dark_crate": "Deep Dark Crate",
+  "block.droid_create_ss_crate.ocean_crate": "Ocean Crate",
+
+  "creativetab.droid_create_ss_crate_tab": "Droid's Create SS Crates Tab"
+}

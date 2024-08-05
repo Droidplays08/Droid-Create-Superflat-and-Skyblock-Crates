@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "LIL",
+    "IOI",
+    "AIA"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:nether_crate",
+    "count": 1
+  }
+}

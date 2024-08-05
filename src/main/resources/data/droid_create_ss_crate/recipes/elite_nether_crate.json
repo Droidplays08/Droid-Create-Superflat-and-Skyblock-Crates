@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "IGI",
+    "MBM",
+    "IMI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "M": {
+      "item": "minecraft:magma_cream"
+    },
+    "B": {
+      "item": "create:empty_blaze_burner"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:elite_nether_crate",
+    "count": 1
+  }
+}

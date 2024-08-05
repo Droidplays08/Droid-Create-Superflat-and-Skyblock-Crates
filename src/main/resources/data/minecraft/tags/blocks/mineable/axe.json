@@ -1,0 +1,19 @@
+{
+  "values": [
+    "droid_create_ss_crate:dirt_crate",
+    "droid_create_ss_crate:beginner_crate",
+    "droid_create_ss_crate:starter_crate",
+    "droid_create_ss_crate:stone_crate",
+    "droid_create_ss_crate:ore_crate",
+    "droid_create_ss_crate:farmer_crate",
+    "droid_create_ss_crate:create_stone_crate",
+    "droid_create_ss_crate:nether_crate",
+    "droid_create_ss_crate:elite_nether_crate",
+    "droid_create_ss_crate:legendary_nether_crate",
+    "droid_create_ss_crate:sculk_crate",
+    "droid_create_ss_crate:deep_dark_crate",
+    "droid_create_ss_crate:ruin_crate",
+    "droid_create_ss_crate:ocean_crate",
+    "droid_create_ss_crate:sherd_crate"
+  ]
+}

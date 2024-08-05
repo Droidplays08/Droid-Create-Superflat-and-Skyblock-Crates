@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "BSB",
+    "PDA",
+    "B#B"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:brush"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "P": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
+      "item": "minecraft:iron_axe"
+    },
+    "#": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:sherd_crate",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "DSD",
+    "S#S",
+    "DSD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "S": {
+      "item": "minecraft:sculk"
+    },
+    "#": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "droid_create_ss_crate:deep_dark_crate",
+    "count": 1
+  }
+}
