@@ -1,12 +1,12 @@
 {
   "pools": [
     {
-      "rolls": 1,
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",
           "name": "minecraft:dirt",
-          "weight": 1,
+          "weight": 2,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -17,7 +17,18 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:oak_sapling",
-          "weight": 1
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_meal",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ]
         }
       ]
     }

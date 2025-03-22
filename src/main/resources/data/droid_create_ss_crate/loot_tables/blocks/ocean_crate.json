@@ -26,7 +26,12 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_otherside",
-          "weight": 3
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heart_of_the_sea",
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -41,7 +46,12 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tnt",
-          "weight": 5
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nautilus_shell",
+          "weight": 2
         },
         {
           "type": "minecraft:item",
