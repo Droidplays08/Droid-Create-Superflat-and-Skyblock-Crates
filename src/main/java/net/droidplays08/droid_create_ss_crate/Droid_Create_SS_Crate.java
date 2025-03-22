@@ -4,6 +4,8 @@ import com.mojang.logging.LogUtils;
 import net.droidplays08.droid_create_ss_crate.block.ModBlocks;
 import net.droidplays08.droid_create_ss_crate.item.ModCreativeModeTabs;
 import net.droidplays08.droid_create_ss_crate.item.ModItems;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -49,6 +51,10 @@ public class Droid_Create_SS_Crate
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
+    }
+
+    private void clientSetup(final FMLClientSetupEvent event) {
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.ANDESITE_CRATE_SHELL.get(), RenderType.translucent());
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

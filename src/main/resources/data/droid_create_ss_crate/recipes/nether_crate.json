@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "blocks",
   "pattern": [
-    "LIL",
-    "IOI",
-    "AIA"
+    "ILI",
+    "LOL",
+    "ASA"
   ],
   "key": {
     "L": {
@@ -18,6 +18,9 @@
     },
     "A": {
       "item": "minecraft:lava_bucket"
+    },
+    "S": {
+      "item": "droid_create_ss_crate:andesite_crate_shell"
     }
   },
   "result": {

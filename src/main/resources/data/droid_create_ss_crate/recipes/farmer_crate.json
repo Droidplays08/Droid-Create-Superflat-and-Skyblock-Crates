@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "category": "blocks",
   "pattern": [
-    "BDB",
-    "DHD",
-    "BDB"
+    "BHB",
+    "HAH",
+    "BHB"
   ],
   "key": {
     "B": {
       "item": "minecraft:bone_block"
     },
-    "D": {
-      "item": "minecraft:dirt"
+    "A": {
+      "item": "droid_create_ss_crate:andesite_crate_shell"
     },
     "H": {
       "item": "minecraft:hay_block"

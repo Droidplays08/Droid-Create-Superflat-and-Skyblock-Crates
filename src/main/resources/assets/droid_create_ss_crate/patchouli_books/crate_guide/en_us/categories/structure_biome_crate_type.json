@@ -1,0 +1,6 @@
+{
+  "name": "Structure Biome Crate Types",
+  "description": "These are crate that contain specific resources from structures and biomes.",
+  "icon": "droid_create_ss_crate:deep_dark_crate",
+  "sortnum": 4
+}

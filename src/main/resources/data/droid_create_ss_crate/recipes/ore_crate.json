@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "blocks",
   "pattern": [
-    "ASA",
-    "GIG",
-    "ASA"
+    "GSG",
+    "A#A",
+    "GSG"
   ],
   "key": {
     "A": {
@@ -16,8 +16,8 @@
     "G": {
       "item": "minecraft:gravel"
     },
-    "I": {
-      "item": "minecraft:iron_ingot"
+    "#": {
+      "item": "create:andesite_alloy"
     }
   },
   "result": {

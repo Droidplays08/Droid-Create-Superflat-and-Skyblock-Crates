@@ -26,14 +26,25 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.ORE_CRATE.get());
                         output.accept(ModBlocks.FARMER_CRATE.get());
                         output.accept(ModBlocks.CREATE_STONE_CRATE.get());
+                        output.accept(ModItems.INCOMPLETE_NETHER_CRATE.get());
                         output.accept(ModBlocks.NETHER_CRATE.get());
-                        output.accept(ModBlocks.ELITE_NETHER_CRATE.get());
-                        output.accept(ModBlocks.LEGENDARY_NETHER_CRATE.get());
+                        output.accept(ModBlocks.BLAZING_NETHER_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_NETHERITE_CRATE.get());
+                        output.accept(ModBlocks.NETHERITE_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_SCULK_CRATE.get());
                         output.accept(ModBlocks.SCULK_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_DEEP_DARK_CRATE.get());
                         output.accept(ModBlocks.DEEP_DARK_CRATE.get());
-                        output.accept(ModBlocks.RUIN_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_SNIFFER_CRATE.get());
+                        output.accept(ModBlocks.SNIFFER_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_OCEAN_CRATE.get());
                         output.accept(ModBlocks.OCEAN_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_SHERD_CRATE.get());
                         output.accept(ModBlocks.SHERD_CRATE.get());
+                        output.accept(ModBlocks.INCOMPLETE_ANDESITE_CRATE_SHELL.get());
+                        output.accept(ModBlocks.ANDESITE_CRATE_SHELL.get());
+                        output.accept(ModBlocks.INCOMPLETE_BRASS_CRATE_SHELL.get());
+                        output.accept(ModBlocks.BRASS_CRATE_SHELL.get());
                     })
                     .build());
 

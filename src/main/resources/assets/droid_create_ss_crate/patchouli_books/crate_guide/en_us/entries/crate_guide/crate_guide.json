@@ -1,0 +1,13 @@
+{
+  "name": "Crate Guide",
+  "icon": "patchouli:guide_book",
+  "category": "droid_create_ss_crate:crate_guide",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "droid_create_ss_crate:crate_guide",
+      "text": "$(br)This is the recipe for Crate Guide in case u forget."
+    }
+  ]
+}
